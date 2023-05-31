@@ -6,7 +6,7 @@ Flutter Calendar App comFirebase CRUD
 
 Antes de iniciar, certifique-se de ter as seguintes ferramentas e tecnologias instaladas em seu ambiente de desenvolvimento:
 
-* Flutter SDK -  [Flutter S(https://docs.flutter.dev/)](https://flutter.dev/docs/get-started/install)
+* Flutter SDK -  [Flutter SDK(https://docs.flutter.dev/)](https://flutter.dev/docs/get-started/install)
 * Firebase CLI - [Firebase CLI](https://firebase.google.com/docs/cli/intro)
 
 ## Configurando
