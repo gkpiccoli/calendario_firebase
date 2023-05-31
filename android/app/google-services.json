@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "476348971393",
+    "project_id": "teste-firebase-7c562",
+    "storage_bucket": "teste-firebase-7c562.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476348971393:android:86e593db30e2d8be435080",
+        "android_client_info": {
+          "package_name": "br.com.gkpdev.firebase_calendar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476348971393-11fi25la8rh6vc35nhmbecgmu16u2dro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_mz4WxaDzbh0IWpKM43byaDDwIw_vwFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476348971393-11fi25la8rh6vc35nhmbecgmu16u2dro.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "476348971393-6j9uauecb9s94fnoouf6ug4as1u76tg7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.popupbits.flutterEvents2023"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
