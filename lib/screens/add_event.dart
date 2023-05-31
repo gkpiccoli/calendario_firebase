@@ -42,7 +42,7 @@ class _AddEventState extends State<AddEvent> {
             onDateSubmitted: (date) {
               print(date);
               setState(() {
-                _selectedDate = date;
+                _selectedDate = DateTime(date.day, date.month, date.year);
               });
             },
           ),
