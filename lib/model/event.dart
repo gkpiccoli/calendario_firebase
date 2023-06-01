@@ -1,3 +1,5 @@
+//TODO: Add LOG param to class EVENT
+
 import 'package:cloud_firestore/cloud_firestore.dart';
 
 class Event {
